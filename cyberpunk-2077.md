@@ -23,7 +23,7 @@ keywords: "cyber, punk, 2077, cyberpunk, cyberpunk 2077, guia, troféu, troféus
 <!------------------------------------------------------>
 
 # 🎮 Cyberpunk 2077
-[![Cyberpunk 2077](img/cyberpunk2077.webp)](guias/cyberpunk-2077/cyberpunk-2077.md)
+[![Cyberpunk 2077](img/cyberpunk2077.webp)](/cyberpunk-2077.md)
 
 - **Dificuldade estimada**: 3/10 (pode fazer tudo na dificuldade fácil)
 - **Tempo estimado para a platina**: Aproximadamente 60h-70h (20h de história e 40h-50h para conteúdo relacionado aos troféus)
