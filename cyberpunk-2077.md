@@ -1,5 +1,5 @@
 # Cyberpunk 2077
-[![Cyberpunk 2077](img/cyberpunk2077.webp)](/cyberpunk-2077.md)
+[![Cyberpunk 2077](img/cyberpunk-2077/cyberpunk2077.webp)](/cyberpunk-2077.md)
 
 - **Dificuldade estimada**: 3/10 (pode fazer tudo na dificuldade fácil)
 - **Tempo estimado para a platina**: Aproximadamente 60h-70h (20h de história e 40h-50h para conteúdo relacionado aos troféus)
@@ -18,7 +18,7 @@
 - **Jogadas mínimas**: 1 (com alguns replays da missão final para diferentes finais)
 - **Caminho livre após a história?**: Sim. Após os créditos, escolha "Claro, só mais um show" para voltar ao ponto antes das missões finais. A partir daí, você pode continuar explorando e completando missões secundárias e eventos do NCPD.
 
-[![Cyberpunk 2077](img/cyberpunk-2077-night-city.jpg)](https://www.youtube.com/watch?v=8X2kIfS6fb8)
+[![Cyberpunk 2077](img/cyberpunk-2077/cyberpunk-2077-night-city.jpg)](https://www.youtube.com/watch?v=8X2kIfS6fb8)
 
 # Introdução
 
@@ -39,7 +39,7 @@ Após terminar a história, você será colocado de volta antes do "Ponto sem vo
 
 **Atenção**: Alguns troféus podem ser complicados se você não prestar atenção neles desde o início. Leia a Etapa 1 do Roteiro com cuidado para não perder nada.
 
-[![Cyberpunk 2077](img/cyberpunk-2077-judy.jpeg)](https://www.youtube.com/watch?v=8X2kIfS6fb8)
+[![Cyberpunk 2077](img/cyberpunk-2077/cyberpunk-2077-judy.jpeg)](https://www.youtube.com/watch?v=8X2kIfS6fb8)
 
 # Etapa 1: Termine a História (em Qualquer Dificuldade)
 
@@ -92,16 +92,16 @@ Para os finais, lembre-se de salvar Takemura durante "Tropa de Elite". Os outros
 - **Salvar Takemura**: Mantenha um salvamento manual no início da missão principal "Tropa de Elite" (antes da missão final) para salvar Takemura e obter o final "O Diabo".
 - **Pontos de Atributo**: Mantenha 17 pontos de atributo não usados em um salvamento manual. Isso permitirá que você faça os troféus relacionados a atributos recarregando o save.
 
-[![Cyberpunk 2077](img/cyberpunk-2077-dex-t-bug-jackie-welles.jpeg)](https://www.youtube.com/watch?v=8X2kIfS6fb8)
+[![Cyberpunk 2077](img/cyberpunk-2077/cyberpunk-2077-dex-t-bug-jackie-welles.jpeg)](https://www.youtube.com/watch?v=8X2kIfS6fb8)
 
 # Etapa 2: Todos os Quatro Troféus de Final de História
 
 Após os créditos, selecione a opção “Claro, só mais um show” para ser colocado de volta antes do “Ponto sem volta” (antes da missão final). Assim, você pode repetir a missão final para escolher um final diferente. Existem 4 troféus de prata vinculados a finais diferentes:
 
 - [**🟤 O Diabo**](#o-diabo)
-- **🟤 A Estrela**
-- **🟤 O Sol**
-- **🟤 Temperança**
+- [**🟤 A Estrela**](#a-estrela)
+- [**🟤 O Sol**](#o-sol)
+- [**🟤 Temperança**](#temperanca)
 
 O final que você obtém depende inteiramente de um conjunto de diálogos na missão “Nocturne Op, 55 nº 1”. Quando Mysty (a garota do Ripperdoc) te levar para uma varanda, você terá uma conversa com Johnny Silverhand. É essa única escolha que decide o final. 
 
@@ -109,7 +109,7 @@ Lembre-se: você deve ter salvo Takemura durante a missão da história “Tropa
 
 [Guia de finais do Cyberpunk 2077](#) (todos os finais)
 
-[![Cyberpunk 2077](img/cyberpunk-2077-johnny-silverhand.jpeg)](https://www.youtube.com/watch?v=8X2kIfS6fb8)
+[![Cyberpunk 2077](img/cyberpunk-2077/cyberpunk-2077-johnny-silverhand.jpeg)](https://www.youtube.com/watch?v=8X2kIfS6fb8)
 
 # Etapa 3: Itens Colecionáveis
 
@@ -133,7 +133,7 @@ Após a história, você pode pegar rapidamente os colecionáveis que ainda não
 
 Se ainda faltar algum Troféu de Combate ou algum dos troféus mencionados na Etapa 1, é hora de focar neles. Você pode combiná-los com as atividades paralelas na Etapa 5. Por exemplo, se precisar de 100 mortes com armas corpo a corpo, concentre-se em realizar apenas mortes corpo a corpo por um tempo. Dê uma olhada rápida na sua lista de troféus e planeje os Troféus Diversos para serem conquistados durante a Etapa 5.
 
-[![Cyberpunk 2077](img/cyberpunk-2077-katana.png)](https://www.youtube.com/watch?v=8X2kIfS6fb8)
+[![Cyberpunk 2077](img/cyberpunk-2077/cyberpunk-2077-katana.png)](https://www.youtube.com/watch?v=8X2kIfS6fb8)
 
 # Etapa 5: Missões Secundárias, Apresentações e Corridas de Scanner NCPD
 
@@ -162,7 +162,7 @@ Ao concluir todas essas atividades, você alcançará automaticamente a credibil
 
 Se você seguiu o conselho da Etapa 1 e não gastou seu dinheiro em outras compras, agora deve ter recursos suficientes para comprar todos os veículos necessários para o troféu **⚪ O Ronco do Motor**. Lembre-se de que você também precisará ter **credibilidade nível 50** para desbloquear os últimos carros disponíveis para compra.
 
-[![Cyberpunk 2077](img/cyberpunk-2077-porsche.jpeg)](https://www.youtube.com/watch?v=8X2kIfS6fb8)
+[![Cyberpunk 2077](img/cyberpunk-2077/cyberpunk-2077-porsche.jpeg)](https://www.youtube.com/watch?v=8X2kIfS6fb8)
 
 # Lista de Troféus de Cyberpunk 2077
 
