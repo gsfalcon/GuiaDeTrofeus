@@ -55,7 +55,7 @@ Após a história, o jogo te colocará de volta antes da missão final, permitin
 
 Certos troféus podem ser perdidos se você não tomar cuidado. Trabalhe neles desde o início. Para mais detalhes, consulte o guia de troféus:
 
-- [**⚪ O Diabo <span style="color: red; font-weight: bold;"><span style="color: red; font-weight: bold;">(PERDÍVEL)</span>**](#o-diabo): Faça um save manual na missão principal "Tropa de Elite". Você deve salvar Takemura durante essa missão para garantir este final. É a missão logo após "Jogue Com Cuidado" e pouco antes da missão final.
+- [**⚪ O Diabo <span style="color: red; font-weight: bold;">(PERDÍVEL)</span>**](#o-diabo): Faça um save manual na missão principal "Tropa de Elite". Você deve salvar Takemura durante essa missão para garantir este final. É a missão logo após "Jogue Com Cuidado" e pouco antes da missão final.
 
 - **🟤 Método Stanislavski <span style="color: red; font-weight: bold;">(PERDÍVEL)</span>**: Escolha 10 diálogos diferentes relacionados ao seu caminho de vida inicial ao longo do jogo. Embora existam mais de 10 oportunidades, é possível perder este troféu se você não aproveitar essas chances. Esses diálogos são marcados com um ícone do caminho de vida escolhido.
 
