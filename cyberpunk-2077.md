@@ -1,28 +1,4 @@
----
-favicon: "/GuiaDeTrofeus/favicon/favicon.ico"
-title: "Cyberpunk 2077"
-description: "Guia de troféus para o jogo Cyberpunk 2077"
-keywords: "cyber, punk, 2077, cyberpunk, cyberpunk 2077, guia, troféu, troféus, conquista, conquistas, achievement, achievements, ps4, ps5, xbox, pc, steam, playstation, xbox, detonado, tutorial, dicas, truques, glitch, platina, platinar"
----
-
-<head>
-  <!-- Favicon -->
-  <link rel="icon" href="/GuiaDeTrofeus/favicon/favicon.ico" type="image/x-icon">
-  <link rel="shortcut icon" href="/GuiaDeTrofeus/favicon/favicon.ico" type="image/x-icon">
-
-  <!-- Google Analytics -->
-  <script async src="https://www.googletagmanager.com/gtag/js?id=G-NW9KT3CC48"></script>
-  <script>
-    window.dataLayer = window.dataLayer || [];
-    function gtag(){dataLayer.push(arguments);}
-    gtag('js', new Date());
-    gtag('config', 'G-NW9KT3CC48');
-  </script>
-</head>
-
-<!------------------------------------------------------>
-
-# 🎮 Cyberpunk 2077
+# Cyberpunk 2077
 [![Cyberpunk 2077](img/cyberpunk2077.webp)](/cyberpunk-2077.md)
 
 - **Dificuldade estimada**: 3/10 (pode fazer tudo na dificuldade fácil)
