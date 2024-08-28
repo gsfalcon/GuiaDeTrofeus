@@ -1,6 +1,8 @@
 ---
-title: Guia de Troféus
-favicon: 📦
+favicon: "img/favicon.ico"
+title: "Guia de Troféus"
+description: "Acervo de Guias de Troféus by gsFALCON"
+keywords: "guia, troféus, platina, conquistas, detonado, acervo, gsFALCON"
 ---
 # Guia De Troféus
 
