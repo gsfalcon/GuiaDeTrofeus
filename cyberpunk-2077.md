@@ -1,22 +1,67 @@
-# Cyberpunk 2077
-[![Cyberpunk 2077](img/cyberpunk-2077/cyberpunk2077.webp)](/cyberpunk-2077.md)
-
-- **Dificuldade estimada**: 3/10 (pode fazer tudo na dificuldade fácil)
-- **Tempo estimado para a platina**: Aproximadamente 60h-70h (20h de história e 40h-50h para conteúdo relacionado aos troféus)
-- **Troféus offline**: 45 (1 platina, 1 ouro, 17 prata, 26 bronze)
-- **Troféus online**: 0
-- **Número de troféus perdíveis**: 7 até agora
-  - [**⚪ O Diabo <span style="color: red; font-weight: bold;">(PERDÍVEL)</span>**](#o-diabo): Salve Takemura durante a missão principal "Tropa de Elite", que acontece pouco antes da missão final. Mantenha um save manual desde o início dessa missão.
-  - [**⚪ Método Stanislavski <span style="color: red; font-weight: bold;">(PERDÍVEL)</span>**](#metodo-stanislavski): Escolha 10 diálogos diferentes relacionados ao seu caminho de vida. As oportunidades são limitadas.
-  - [**⚪ Mão de Prata <span style="color: red; font-weight: bold;">(PERDÍVEL)</span>**](#mao-de-prata): As calças do Johnny só podem ser encontradas durante a missão "Psychofan" em Heywood. Não é possível voltar lá depois do show.
-  - [**⚪ O Tesão de Artesão <span style="color: red; font-weight: bold;">(PERDÍVEL)</span>**](#o-tesao-de-artesao): Requer 18 pontos de atributo em "Habilidade Técnica". Não há como redefinir atributos, então mantenha um save manual com 17 pontos não gastos para maximizar qualquer atributo.
-  - [**⚪ Dez, Nota Dez! <span style="color: red; font-weight: bold;">(PERDÍVEL)</span>**](#dez-nota-dez): Requer 20 pontos de atributo em qualquer árvore de habilidades. Mantenha um save manual com 17 pontos não gastos para maximizar qualquer atributo.
-  - [**⚪ V de Vingança <span style="color: red; font-weight: bold;">(PERDÍVEL)</span>**](#v-de-vinganca): Requer 16 pontos de atributo em "Corpo". Mantenha um save manual com 17 pontos não gastos para maximizar qualquer atributo.
-  - [**⚪ Pouso Forçado <span style="color: red; font-weight: bold;">(PERDÍVEL)</span>**](#pouso-forçado): Requer 18 pontos de atributo em "Corpo". Mantenha um save manual com 17 pontos não gastos para maximizar qualquer atributo.
-- **Troféus com falha**: Nenhum até o momento.
-- **A dificuldade afeta os troféus?**: Não, pode jogar em qualquer nível de dificuldade.
-- **Jogadas mínimas**: 1 (com alguns replays da missão final para diferentes finais)
-- **Caminho livre após a história?**: Sim. Após os créditos, escolha "Claro, só mais um show" para voltar ao ponto antes das missões finais. A partir daí, você pode continuar explorando e completando missões secundárias e eventos do NCPD.
+- [Introdução](#introdução)
+    - [Dicas Importantes](#dicas-importantes)
+    - [Caminho Livre após a História](#caminho-livre-após-a-história)
+- [Etapa 1: Termine a História (em Qualquer Dificuldade)](#etapa-1-termine-a-história-em-qualquer-dificuldade)
+    - [Escolhas no Caminho de Vida](#escolhas-no-caminho-de-vida)
+    - [Troféus que Requerem Atenção Especial](#troféus-que-requerem-atenção-especial)
+    - [Dicas Adicionais](#dicas-adicionais)
+    - [Resumo do que Lembrar](#resumo-do-que-lembrar)
+- [Etapa 2: Todos os Quatro Troféus de Final de História](#etapa-2-todos-os-quatro-troféus-de-final-de-história)
+- [Etapa 3: Itens Colecionáveis](#etapa-3-itens-colecionáveis)
+- [Etapa 4: Troféus Diversos e Troféus de Combate Restantes](#etapa-4-troféus-diversos-e-troféus-de-combate-restantes)
+- [Etapa 5: Missões Secundárias, Apresentações e Corridas de Scanner NCPD](#etapa-5-missões-secundárias-apresentações-e-corridas-de-scanner-ncpd)
+  - [Linhas de Missão Paralelas:](#linhas-de-missão-paralelas)
+  - [Outros Tipos de Atividades Paralelas:](#outros-tipos-de-atividades-paralelas)
+- [Etapa 6: Compre Todos os Veículos](#etapa-6-compre-todos-os-veículos)
+- [Lista de Troféus de Cyberpunk 2077](#lista-de-troféus-de-cyberpunk-2077)
+  - [🔵 Never Fade Away](#-never-fade-away)
+  - [🟤 O Louco](#-o-louco)
+  - [🟤 Os Enamorados](#-os-enamorados)
+  - [🟤 O Eremita](#-o-eremita)
+  - [🟤 Roda da Fortuna](#-roda-da-fortuna)
+  - [🟤 A Alta Sacerdotisa](#-a-alta-sacerdotisa)
+  - [🟡 O Mundo](#-o-mundo)
+  - [🟤 O Diabo (TOTALMENTE PERDÍVEL)](#-o-diabo-totalmente-perdível)
+  - [⚪ A Estrela](#-a-estrela)
+  - [⚪ O Sol](#-o-sol)
+  - [⚪ Temperança](#-temperança)
+  - [🟤 Servir e Proteger](#-servir-e-proteger)
+  - [🟤 As Decisões Ruins!](#-as-decisões-ruins)
+    - [Parte 1: Missões secundárias de Rogue – 🟤 Bushido a Dois:](#parte-1-missões-secundárias-de-rogue---bushido-a-dois)
+    - [Parte 2: Missões secundárias de Kerry Eurodyne:](#parte-2-missões-secundárias-de-kerry-eurodyne)
+  - [🟤 Judy Contra Night City](#-judy-contra-night-city)
+  - [🟤 Vida na Estrada](#-vida-na-estrada)
+  - [🟤 Bushido a Dois](#-bushido-a-dois)
+  - [🟤 Mão de Prata (PERDÍVEL)](#-mão-de-prata-perdível)
+  - [⚪ Elementar, Meu Caro](#-elementar-meu-caro)
+  - [🟤 Eu Sou a Lei](#-eu-sou-a-lei)
+  - [⚪ Aqui é Pacifica!](#-aqui-é-pacifica)
+  - [⚪ Terra de Ninguém](#-terra-de-ninguém)
+  - [⚪ Pequena Tóquio](#-pequena-tóquio)
+  - [⚪ A Quebrada](#-a-quebrada)
+  - [⚪ Selva de Concreto](#-selva-de-concreto)
+  - [⚪ Luzes da Cidade](#-luzes-da-cidade)
+  - [🟤 Conversão Corporal Completa](#-conversão-corporal-completa)
+  - [🟤 Hoje Eu Tô Pistola](#-hoje-eu-tô-pistola)
+  - [🟤 Ataque-surpresa de Natal](#-ataque-surpresa-de-natal)
+  - [🟤 Dez, Nota Dez! (PERDÍVEL)](#-dez-nota-dez-perdível)
+  - [🟤 Na Lata](#-na-lata)
+  - [🟤 Dois Coelhos com uma Cajadada](#-dois-coelhos-com-uma-cajadada)
+  - [🟤 Pouso Forçado (PERDÍVEL)](#-pouso-forçado-perdível)
+  - [🟤 Método Stanislavski (PERDÍVEL)](#-método-stanislavski-perdível)
+  - [🟤 O ronco do motor](#-o-ronco-do-motor)
+    - [Lista de veículos e seus preços:](#lista-de-veículos-e-seus-preços)
+  - [🟤 O tesão de artesão (PERDÍVEL)](#-o-tesão-de-artesão-perdível)
+  - [🟤 O pão que o daemon amassou](#-o-pão-que-o-daemon-amassou)
+  - [🟤 Câmera lenta, gatilho rápido](#-câmera-lenta-gatilho-rápido)
+  - [🟤 Deve ser rato](#-deve-ser-rato)
+  - [🟤 V de vingança (PERDÍVEL)](#-v-de-vingança-perdível)
+  - [⚪ Soldado à vera](#-soldado-à-vera)
+  - [⚪ Guerreiro à vera](#-guerreiro-à-vera)
+  - [🟤 Toma-lhe](#-toma-lhe)
+  - [⚪ O Louco errante](#-o-louco-errante)
+  - [🟤 Senhores passageiros](#-senhores-passageiros)
+  - [⚪ Lenda da Afterlife](#-lenda-da-afterlife)
 
 [![Cyberpunk 2077](img/cyberpunk-2077/cyberpunk-2077-night-city.jpg)](https://www.youtube.com/watch?v=8X2kIfS6fb8)
 
